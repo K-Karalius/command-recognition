@@ -18,5 +18,5 @@ We are also going to need TASM, which i have added to this repository.
 6. To get the .exe file type `tlink fileName.obj` (should be the same as .asm) \
  ![tlink](/readMeImages/info2.png)
 7. Now you can launch the application by typing `fileName.exe`
-8. Now you should see the results, like in the example below :
+8. Now you should see the results, like in the example below : \
 ![commands](/readMeImages/info3.png) ![output](/readMeImages/info4.png)
