@@ -1,6 +1,10 @@
 # command-recognition
 Recognition of the command "POP reg" and "POP sreg"
 
+The application searches for "POP reg" and "POP sreg" commands between 61st and 74th line (between "nop" and "popf" commands):
+![commands](/readMeImages/info3.png)
+
+You can modify these lines with differnt commands.
 
 # Running the application
 
