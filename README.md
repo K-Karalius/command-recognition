@@ -24,7 +24,8 @@ We are also going to need TASM, which i have added to this repository.
  ![tlink](/readMeImages/info2.png)
 7. Now you can launch the application by typing `fileName.exe`
 8. Now you should see the results 
-   
+
+### Output example   
 For example with these commands:
 
 ![commands](/readMeImages/info3.png)
