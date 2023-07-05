@@ -16,6 +16,6 @@ We are also going to need TASM, which i have added to this repository.
  ![Now you will see the list of erros, warnings and etc.](/readMeImages/info1.png)
 6. To get the .exe file type `tlink fileName.obj` (should be the same as .asm) \
  ![tlink](/readMeImages/info2.png)
-7. Now you can launch the application by typing `fileName.exe *firstBinary.txt* *secondBinary.txt* *outputFileName.txt*`
-8. Now you can see the result in the outputfile.
+7. Now you can launch the application by typing `fileName.exe`
+8. Now you can see the results.
 
